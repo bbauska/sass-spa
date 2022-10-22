@@ -1,4 +1,6 @@
-# sass-spa CSS Based Single Page App
+# Silus Lance Web Page
+
+## sass-spa CSS Based Single Page App
 
 The goal of the project is to achieve a single page application type of behavior without any javascript usage.
 
